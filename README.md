@@ -74,6 +74,7 @@ The objective is to classify six human activities using Support Vector Machines 
 ### Model Comparison
 
 ![Model Comparison](images/model_comparison.png)
+
 ---
 
 ## 🛠️ Technologies Used
