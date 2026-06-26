@@ -1,6 +1,6 @@
-# 🚶 Human Activity Recognition using Support Vector Machines
+#  Human Activity Recognition using Support Vector Machines
 
-## 📌 Overview
+##  Overview
 
 This project builds a Human Activity Recognition (HAR) classifier using smartphone sensor measurements from the UCI HAR Dataset.
 
@@ -8,7 +8,7 @@ The objective is to classify six human activities using Support Vector Machines 
 
 ---
 
-## 🧠 Activities
+##  Activities
 
 - Walking
 - Walking Upstairs
@@ -19,7 +19,7 @@ The objective is to classify six human activities using Support Vector Machines 
 
 ---
 
-## 📊 Algorithms Used
+##  Algorithms Used
 
 - Linear Support Vector Machine
 - RBF Kernel SVM
@@ -29,7 +29,7 @@ The objective is to classify six human activities using Support Vector Machines 
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 - Human Activity Recognition Using Smartphones Dataset
 - 561 sensor features
@@ -37,7 +37,7 @@ The objective is to classify six human activities using Support Vector Machines 
 
 ---
 
-## 🚀 Workflow
+##  Workflow
 
 1. Data Loading
 2. Exploratory Data Analysis
@@ -51,7 +51,7 @@ The objective is to classify six human activities using Support Vector Machines 
 
 ---
 
-## 📈 Results
+##  Results
 
 | Model | Test Accuracy | Cross Validation Accuracy |
 |--------|--------------:|--------------------------:|
@@ -61,7 +61,7 @@ The objective is to classify six human activities using Support Vector Machines 
 
 ---
 
-## 📷 Visualizations
+##  Visualizations
 
 ### Activity Distribution
 
@@ -77,7 +77,7 @@ The objective is to classify six human activities using Support Vector Machines 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - NumPy
@@ -88,7 +88,7 @@ The objective is to classify six human activities using Support Vector Machines 
 
 ---
 
-## 🎯 Concepts Demonstrated
+##  Concepts Demonstrated
 
 - Support Vector Machines
 - Linear SVM
@@ -102,7 +102,7 @@ The objective is to classify six human activities using Support Vector Machines 
 
 ---
 
-## 📚 Reference
+##  Reference
 
 Aurélien Géron
 
