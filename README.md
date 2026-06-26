@@ -65,15 +65,15 @@ The objective is to classify six human activities using Support Vector Machines 
 
 ### Activity Distribution
 
-![Activity Distribution](images/Activity Distribution.png)
+![Activity Distribution] (images/Activity Distribution.png)
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/Confusion Matrix.png)
+![Confusion Matrix] (images/Confusion Matrix.png)
 
 ### Model Comparison
 
-![Model Comparison](images/Model Comparision.png)
+![Model Comparison] (images/Model Comparision.png)
 
 ---
 
